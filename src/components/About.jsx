@@ -12,16 +12,15 @@ const About = () => {
           Why Choose Us?
         </h1>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi
-          architecto quisquam delectus minima perferendis nulla quia nisi
-          laborum, exercitationem cum quo accusantium, impedit sed. Dicta, quo
-          molestias omnis reprehenderit quae animi? Explicabo quasi accusamus
-          laboriosam temporibus delectus, aut a? Quasi?
-        </p>
+        We take the guesswork out of dining by offering expertly curated meal options that cater to every palate.
+         Whether you're in the mood for a hearty comfort dish, a gourmet feast, or an exotic culinary adventure, we've got you covered. 
+         Let us help you discover the perfect meal that delights your taste buds and elevates your dining experience. 
+         Savor every bite and make each meal a memorable one with our top picks!
+         </p>
         <p>
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Commodi,
-          suscipit reiciendis accusamus recusandae eum aspernatur pariatur odit
-          veritatis facere. Magnam!
+        Dive into a seamless food journey where each recommendation is a celebration of flavor and quality. 
+        Trust us to guide you to meals that not only satisfy but also inspire, making every dining moment extraordinary.
+
         </p>
         <div className=" flex justify-center lg:justify-start">
           <Button title="Learn More" />

@@ -9,10 +9,9 @@ const Home = () => {
         EAT A LOT TODAY AND AGAIN TOMORROW.
         </h1>
         <p className=" text-backgroundColor">
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quis et qui,
-          maxime assumenda repellat corrupti officia dolorum delectus labore
-          deleniti?
-        </p>
+        Explore a world of flavors with our expertly curated food choices, guaranteed to satisfy every craving. 
+        Elevate your dining experience and enjoy the perfect meal, every time.
+     </p>
         <div className=" lg:pl-44">
           <Button title="Order Now" />
         </div>

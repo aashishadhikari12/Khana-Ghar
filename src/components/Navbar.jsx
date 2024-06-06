@@ -133,7 +133,7 @@ const Navbar = () => {
               Reviews
             </Link>
             <Link
-              to="review"
+              to="login"
               spy={true}
               smooth={true}
               duration={500}
@@ -208,7 +208,7 @@ const Navbar = () => {
             Reviews
           </Link>
           <Link
-            to="review"
+            to="Login"
             spy={true}
             smooth={true}
             duration={500}
