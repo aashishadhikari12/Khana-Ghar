@@ -25,7 +25,8 @@ const Navbar = () => {
             <span>
               <BiRestaurant size={32} />
             </span>
-            <h1 className=" text-xl font-semibold">FoodieWeb</h1>
+            <h1 className=" text-xl font-bold">Khana-Ghar</h1>
+            
           </div>
 
           <nav className="hidden md:flex flex-row items-center text-lg font-medium gap-8">
@@ -131,7 +132,15 @@ const Navbar = () => {
             >
               Reviews
             </Link>
-
+            <Link
+              to="review"
+              spy={true}
+              smooth={true}
+              duration={500}
+              className="hover:text-brightColor transition-all cursor-pointer"
+            >
+              <Button title="Login" />
+            </Link>
             <Button title="Login" />
           </nav>
 
@@ -198,7 +207,16 @@ const Navbar = () => {
           >
             Reviews
           </Link>
-
+          <Link
+            to="review"
+            spy={true}
+            smooth={true}
+            duration={500}
+            className=" hover:text-brightColor transition-all cursor-pointer"
+            onClick={closeMenu}
+          >
+              <Button title="login" />
+          </Link>
           <Button title="login" />
         </div>
       </div>
